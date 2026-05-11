@@ -3,23 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        left_pt, right_pt = m - 1, n - 1
-        for i in range(len(nums1) - 1, -1, -1):
-            if left_pt >= 0 and right_pt >= 0:
-                if nums2[right_pt] >= nums1[left_pt]:
-                    nums1[i] = nums2[right_pt]
-                    right_pt -= 1
-                else:
-                    nums1[i] = nums1[left_pt]
-                    left_pt -= 1
-            elif left_pt >= 0:
-                nums1[i] = nums1[left_pt]
-                left_pt -= 1
-            elif right_pt >= 0:
-                nums1[i] = nums2[right_pt]
-                right_pt -= 1
+        p1, p2 = m - 1, n - 1
+        p = m + n - 1
+        while p2 >= 0:
+            if p1 >= 0 and nums1[p1] > nums2[p2]:
+                nums1[p] = nums1[p1]
+                p1 -= 1
             else:
-                pass
+                nums1[p] = nums2[p2]
+                p2 -= 1
+            p -= 1
 
             
             
