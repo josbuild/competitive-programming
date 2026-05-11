@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yosefalemu/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/yosefalemu/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yosefalemu/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/yosefdevx/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/yosefalemu/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0413-arithmetic-slices](https://github.com/yosefalemu/DSA/tree/master/0413-arithmetic-slices) |
 | [0495-teemo-attacking](https://github.com/yosefalemu/DSA/tree/master/0495-teemo-attacking) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yosefdevx/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/yosefalemu/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/yosefalemu/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yosefdevx/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/yosefalemu/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/yosefalemu/DSA/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/yosefalemu/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yosefalemu/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/yosefalemu/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/yosefalemu/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/yosefdevx/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/yosefalemu/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yosefalemu/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/yosefalemu/DSA/tree/master/0392-is-subsequence) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/yosefalemu/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/yosefalemu/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yosefalemu/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yosefdevx/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/yosefalemu/DSA/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/yosefalemu/DSA/tree/master/0401-binary-watch) |
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
