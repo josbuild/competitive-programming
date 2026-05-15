@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/yosefalemu/DSA/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/yosefalemu/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yosefalemu/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/yosefdevx/competitive-programming/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/yosefalemu/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yosefalemu/DSA/tree/master/0817-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/yosefalemu/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yosefalemu/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/yosefalemu/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/yosefalemu/DSA/tree/master/0696-count-binary-substrings) |
+| [0768-partition-labels](https://github.com/yosefdevx/competitive-programming/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/yosefalemu/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/yosefalemu/DSA/tree/master/0874-backspace-string-compare) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/yosefalemu/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/yosefalemu/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/yosefalemu/DSA/tree/master/0696-count-binary-substrings) |
+| [0768-partition-labels](https://github.com/yosefdevx/competitive-programming/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/yosefalemu/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/yosefalemu/DSA/tree/master/0874-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/yosefalemu/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/yosefalemu/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/yosefalemu/DSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/yosefalemu/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/yosefdevx/competitive-programming/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/yosefdevx/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/yosefalemu/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/yosefalemu/DSA/tree/master/2816-lexicographically-smallest-palindrome) |
