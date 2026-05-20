@@ -1,18 +1,15 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        left = 0
-        freqChar = {}
+        temp = dict()
+        slow = 0
         ans = 0
-        maxFreqChar = 0
-        for right in range(len(s)):
-            freqChar.setdefault(s[right],0)
-            freqChar[s[right]] += 1
-            maxFreqChar = max(maxFreqChar,freqChar[s[right]])
-            if (right - left + 1) - maxFreqChar > k:
-                freqChar[s[left]] -= 1
-                left += 1
-            ans = max(ans, right - left + 1)
+        for fast in range(len(s)):
+            temp[s[fast]] = temp.get(s[fast], 0) + 1
+            max_freq = max(temp.values())
+            curr_len = fast - slow + 1
+            if curr_len - max_freq > k:
+                temp[s[slow]] -= 1
+                slow += 1
+            ans = max(ans, fast - slow + 1)
         return ans
-
         
-
