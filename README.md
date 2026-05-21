@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
 | [0908-smallest-range-i](https://github.com/yosefalemu/DSA/tree/master/0908-smallest-range-i) |
 | [0917-boats-to-save-people](https://github.com/yosefdevx/competitive-programming/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/yosefdevx/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/yosefalemu/DSA/tree/master/0941-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/yosefalemu/DSA/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/yosefalemu/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/yosefalemu/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/yosefalemu/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/yosefalemu/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/yosefdevx/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/yosefalemu/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yosefalemu/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yosefalemu/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/yosefdevx/competitive-programming/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/yosefalemu/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yosefalemu/DSA/tree/master/0817-design-hashmap) |
+| [0940-fruit-into-baskets](https://github.com/yosefdevx/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/yosefalemu/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yosefalemu/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yosefalemu/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
