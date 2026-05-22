@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/yosefalemu/DSA/tree/master/0552-student-attendance-record-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/yosefalemu/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/yosefalemu/DSA/tree/master/1013-fibonacci-number) |
+| [1020-longest-turbulent-subarray](https://github.com/yosefdevx/competitive-programming/tree/master/1020-longest-turbulent-subarray) |
 | [1086-divisor-game](https://github.com/yosefalemu/DSA/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/yosefalemu/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yosefalemu/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/yosefalemu/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/yosefalemu/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/yosefalemu/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-longest-turbulent-subarray](https://github.com/yosefdevx/competitive-programming/tree/master/1020-longest-turbulent-subarray) |
 | [1168-duplicate-zeros](https://github.com/yosefalemu/DSA/tree/master/1168-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/yosefalemu/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yosefalemu/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/yosefalemu/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/yosefdevx/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/yosefalemu/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-longest-turbulent-subarray](https://github.com/yosefdevx/competitive-programming/tree/master/1020-longest-turbulent-subarray) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yosefalemu/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yosefalemu/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yosefalemu/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
