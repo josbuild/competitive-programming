@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/yosefalemu/DSA/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/yosefalemu/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/yosefalemu/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/yosefdevx/competitive-programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yosefalemu/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/yosefalemu/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2634-minimum-common-value](https://github.com/yosefalemu/DSA/tree/master/2634-minimum-common-value) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/yosefdevx/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/yosefalemu/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/yosefdevx/competitive-programming/tree/master/1020-longest-turbulent-subarray) |
+| [1321-get-equal-substrings-within-budget](https://github.com/yosefdevx/competitive-programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yosefalemu/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yosefalemu/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yosefalemu/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/yosefalemu/DSA/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/yosefalemu/DSA/tree/master/0731-my-calendar-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/yosefalemu/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/yosefdevx/competitive-programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/yosefalemu/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/yosefalemu/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/yosefalemu/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/yosefalemu/DSA/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/yosefalemu/DSA/tree/master/0961-long-pressed-name) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yosefalemu/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1321-get-equal-substrings-within-budget](https://github.com/yosefdevx/competitive-programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yosefalemu/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1454-remove-palindromic-subsequences](https://github.com/yosefalemu/DSA/tree/master/1454-remove-palindromic-subsequences) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yosefalemu/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
