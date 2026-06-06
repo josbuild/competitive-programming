@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/yosefalemu/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/yosefalemu/DSA/tree/master/1635-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yosefalemu/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/yosefdevx/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yosefalemu/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/yosefalemu/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1755-defuse-the-bomb](https://github.com/yosefalemu/DSA/tree/master/1755-defuse-the-bomb) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yosefalemu/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yosefalemu/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1635-number-of-good-pairs](https://github.com/yosefalemu/DSA/tree/master/1635-number-of-good-pairs) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/yosefdevx/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yosefalemu/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/yosefalemu/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yosefalemu/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/yosefalemu/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/yosefdevx/competitive-programming/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/yosefdevx/competitive-programming/tree/master/0917-boats-to-save-people) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/yosefdevx/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/yosefalemu/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/yosefalemu/DSA/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Bit Manipulation
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/yosefalemu/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yosefalemu/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yosefalemu/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/yosefdevx/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yosefalemu/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yosefalemu/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/yosefalemu/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -870,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/yosefalemu/DSA/tree/master/1086-divisor-game) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/yosefdevx/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Combinatorics
 |  |
 | ------- |
